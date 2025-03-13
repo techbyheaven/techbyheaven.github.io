@@ -1,0 +1,27 @@
+h2 {
+    color:darkviolet;
+        font-family: "Caveat Brush", cursive;
+        font-weight: 400;
+        font-style: normal;
+        text-align:center;
+ }
+      
+   
+  
+
+header {
+   
+  }
+ 
+ 
+  
+  article {
+    max-width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+  }
+
+  img {
+    margin: 40px,0px,0px;
+    border-radius: 20px;
+  }
